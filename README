@@ -1,0 +1,8 @@
+My goal in this project is to code each phase of a compiler, which are;
+    1. Lexical analysis
+    2. Syntax analysis
+    3. Type checking
+    4. Intermediate code generation
+    5. Register allocation
+    6. Machine code generation
+    7. Assembly and linking
